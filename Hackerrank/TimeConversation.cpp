@@ -17,13 +17,6 @@ void split(const std::string &s, char delim, std::vector<std::string> &elems);
 int cplusplus11();
 int cplusplus98();
 
-int main()
-{
-	cplusplus11();
-	cplusplus98();
-	return 0;
-}
-
 int cplusplus11()
 {
 	/*string time;
