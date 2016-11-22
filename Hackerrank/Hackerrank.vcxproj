@@ -152,6 +152,7 @@
   <ItemGroup>
     <ClCompile Include="BigSum.cpp" />
     <ClCompile Include="Hackerrank.cpp" />
+    <ClCompile Include="SumArray.cpp" />
     <ClCompile Include="TimeConversation.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

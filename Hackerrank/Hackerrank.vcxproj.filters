@@ -44,5 +44,8 @@
     <ClCompile Include="Hackerrank.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SumArray.cpp">
+      <Filter>Source Files\Algorithm</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
