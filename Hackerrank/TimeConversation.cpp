@@ -1,21 +1,7 @@
 // Hackerrank.cpp : Defines the entry point for the console application.
 //
 #include "stdafx.h"
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <ctime>
-#include <string>
-#include <algorithm>
-#include <sstream>
-#include <iomanip>
-using namespace std;
-
-void split(const std::string &s, char delim, std::vector<std::string> &elems);
-
-int cplusplus11();
-int cplusplus98();
+#include "TimeConversation.h"
 
 int cplusplus11()
 {

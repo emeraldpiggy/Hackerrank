@@ -1,8 +1,9 @@
 #include "stdafx.h"
 #include "BigSum.h"
+#include "TimeConversation.h"
 
 int main()
 {
-	BigSum();
+	cplusplus98();
 	return 0;
 }
